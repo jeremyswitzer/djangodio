@@ -1,0 +1,1 @@
+git+git://github.com/jeremyswitzer/podio-py.git#egg=podio-py
