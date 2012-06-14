@@ -1,0 +1,1 @@
+A Django application that wraps up the Podio API. It allows podio user and application credentials to be stored in models for better configuration.  
